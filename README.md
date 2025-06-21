@@ -1,11 +1,6 @@
 # NewsAI-Personalized-AI-Powered-Audio-News-Summarizer
  “Your daily AI-powered news podcast, generated on demand.”
 ---
-NewsAI — a Personalized AI-Powered News & Reddit Audio Summarizer:
-
----
-
-# 📰 NewsAI — Personalized AI News & Reddit Audio Summarizer
 
 > Summarize. Synthesize. Speak.
 > NewsAI delivers personalized audio briefings from real-time news & Reddit discussions using cutting-edge AI tools like Gemini, BrightData MCP, and ElevenLabs.
