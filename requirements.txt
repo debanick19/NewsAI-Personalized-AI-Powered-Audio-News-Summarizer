@@ -1,0 +1,31 @@
+# Core App
+fastapi
+uvicorn
+streamlit
+
+# Data Modeling
+pydantic
+python-dotenv
+
+# Scraping
+requests
+beautifulsoup4
+lxml
+
+# TTS + Audio
+gtts
+elevenlabs
+
+# Retry & Rate Control
+aiolimiter
+tenacity
+
+# Gemini
+google-generativeai
+
+# LangChain Agents & Tools (Required for MCP + Agent)
+langchain
+langchain-anthropic
+langgraph
+mcp
+langchain-mcp-adapters
